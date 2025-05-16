@@ -25,8 +25,8 @@ Le projet vise à utiliser des techniques de machine learning, notamment l'algor
 
 Voici la liste des fichiers inclus dans ce projet :
 
-- `1 - generationTrajectoires - JAFFUEL SIMON.ipynb` : Script Jupyter pour la génération des trajectoires de drones.
-- `2 - classificationTrajectoires - JAFFUEL SIMON.ipynb` : Script Jupyter pour l'application du modèle de machine learning.
+- `1 - generationTrajectoires - JAFFUEL SMITH GROLLEAU.ipynb` : Script Jupyter pour la génération des trajectoires de drones.
+- `2 - classificationTrajectoires - JAFFUEL SMITH GROLLEAU.ipynb` : Script Jupyter pour l'application du modèle de machine learning.
 - `bases_lancement.csv` : Données sur les bases de lancement de drones.
 - `caracteristique_drone.csv` : Caractéristiques des drones russes et ukrainiens.
 - `DroneProject.zip` : Fichier compressé permettant de refaire le projet
